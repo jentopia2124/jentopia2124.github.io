@@ -11,6 +11,4 @@ children:
   - title: blog
     permalink: /blog/
   - title: divider
-  - title: poker
-    permalinke: /poker/
 ---
